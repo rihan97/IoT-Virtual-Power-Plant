@@ -1,0 +1,9 @@
+### Virutal Power Plant industry project
+
+Virtual Power Plant was which was undertaken to takle a real world issue. The aim of the project was to build a smart weather predictions system which consisted of multiple usages. For this project; a solar panel as well as a wind turbine were installed and placed on the roof of the building. The project aim was to predict whether the solar and wind turbine renewable sources; will produce enough energy to meet the demands of a single house for a single day and as a result to ultimately relieve load off the national grid. However the system needed to be desinged in a way where it could predict in the future and send smart notifications to the client whether what appliances such as a washing machine can be used.
+
+Further sensors were used to create a the weather forecast system. These sensors included; humidity, wind, temperature, light and biometric sensors to get readings. The Raw live data generated needed to be sent in real time to a graphical user application for this data to be analysed and sent further. To do this the programming language Java and C++ was used. 
+
+The Java application firstly; reads in data from the weather forecast system and also reads in online API data from vendors such as; BBC and OpenWeather. The online vendors data is then processed and compared to the data that has been generated from our weather forecast system so that our system can predict and notify the user as to the amount of energy that will be produced for next day from the two renewable sources we that were installed. 
+
+A Smart notification system, which frequently notifies the user via a message on the GUI application as to which appliance can be used tomorrow and which appliances should the user stay away from, based on the analysis of the prediction of the system.
